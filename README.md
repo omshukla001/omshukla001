@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════
      OM SHUKLA — GitHub Profile README
-     AI & Software Systems Engineer | AI Agents | Computer Vision | Full-Stack
+     AI & ML Engineer | Full-Stack Developer | App Developer
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/omshukla001">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&height=90&lines=AI+%26+Software+Systems+Engineer;Full-Stack+AI+%26+RAG+Architect;Computer+Vision+%26+Deep+Learning;Intelligent+Workflow+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF6D00&center=true&vCenter=true&width=700&height=90&lines=AI+%26+ML+Engineer;Full-Stack+Developer;App+Developer;Computer+Vision+%26+Deep+Learning;Intelligent+Workflow+Automation" alt="Typing SVG" />
   </a>
 </p>
 <br/>
@@ -27,7 +27,7 @@
 <!-- Quick identity badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Bangalore,_India-0d1117?style=flat&labelColor=0d1117" alt="Location"/>
-  <img src="https://img.shields.io/badge/💻_Building_AI_Software_Systems-00e5ff?style=flat&labelColor=0d1117" alt="Focus"/>
+  <img src="https://img.shields.io/badge/💻_Building_AI_Software_Systems-ff6d00?style=flat&labelColor=0d1117" alt="Focus"/>
 </p>
 <br/>
 
@@ -63,7 +63,7 @@
 
 ```yaml
 Name:       Om Shukla
-Role:       AI & Software Systems Engineer
+Role:       AI & ML Engineer | Full-Stack Developer | App Developer
 Location:   Bangalore, India 🇮🇳
 
 Mission:    "Building scalable, next-generation software systems that bridge 
@@ -162,8 +162,8 @@ Core Focus:
   <img src="https://img.shields.io/badge/RAG_Pipelines-0d1117?style=for-the-badge&logo=openai&logoColor=00A67E"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Pixhawk-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMGU1ZmYiIHN0cm9rZS13aWR0aD0iMiI+PHBhdGggZD0iTTEyIDJMMiAyMmgyMEwxMiAyeiIvPjwvc3ZnPg==&logoColor=00e5ff"/>
-  <img src="https://img.shields.io/badge/ArduPilot-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMGU1ZmYiIHN0cm9rZS13aWR0aD0iMiI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMTIgMnYyME0yIDEyaDIwIi8+PC9zdmc+&logoColor=00e5ff"/>
+  <img src="https://img.shields.io/badge/Pixhawk-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMGU1ZmYiIHN0cm9rZS13aWR0aD0iMiI+PHBhdGggZD0iTTEyIDJMMiAyMmgyMEwxMiAyeiIvPjwvc3ZnPg==&logoColor=ff6d00"/>
+  <img src="https://img.shields.io/badge/ArduPilot-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMGU1ZmYiIHN0cm9rZS13aWR0aD0iMiI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMTIgMnYyME0yIDEyaDIwIi8+PC9zdmc+&logoColor=ff6d00"/>
   <img src="https://img.shields.io/badge/Raspberry_Pi-0d1117?style=for-the-badge&logo=raspberrypi&logoColor=A22846"/>
   <img src="https://img.shields.io/badge/WhatsApp_Baileys-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366"/>
   <img src="https://img.shields.io/badge/Cerebras_LLM-0d1117?style=for-the-badge&logo=meta&logoColor=0467DF"/>
@@ -203,7 +203,7 @@ Core Focus:
 <summary>
   <h3>🛸 <b>Domain 1: Robotics & Hardware</b></h3>
   <b>NIDAR Dual-Drone System</b> — Autonomous active flood rescue operations<br/>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8"/> <img src="https://img.shields.io/badge/Pixhawk-0d1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMGU1ZmYiIHN0cm9rZS13aWR0aD0iMiI+PHBhdGggZD0iTTEyIDJMMiAyMmgyMEwxMiAyeiIvPjwvc3ZnPg==&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/YOLOv8-0d1117?style=flat-square&logo=yolo&logoColor=00FFFF"/>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8"/> <img src="https://img.shields.io/badge/Pixhawk-0d1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMGU1ZmYiIHN0cm9rZS13aWR0aD0iMiI+PHBhdGggZD0iTTEyIDJMMiAyMmgyMEwxMiAyeiIvPjwvc3ZnPg==&logoColor=ff6d00"/> <img src="https://img.shields.io/badge/YOLOv8-0d1117?style=flat-square&logo=yolo&logoColor=00FFFF"/>
 </summary>
 
 <br/>
@@ -211,7 +211,7 @@ Core Focus:
 <div align="left">
 
 <a href="https://github.com/omshukla001/NIDAR">
-  <img src="https://img.shields.io/badge/🔴_FLAGSHIP-00e5ff?style=for-the-badge&labelColor=0d1117" alt="Flagship"/>
+  <img src="https://img.shields.io/badge/🔴_FLAGSHIP-ff6d00?style=for-the-badge&labelColor=0d1117" alt="Flagship"/>
 </a>
 
 <table>
@@ -236,7 +236,7 @@ Core Focus:
   <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat&logo=opencv&logoColor=5C3EE8"/>
   <img src="https://img.shields.io/badge/YOLOv8-0d1117?style=flat&logo=yolo&logoColor=00FFFF"/>
   <img src="https://img.shields.io/badge/Raspberry_Pi-0d1117?style=flat&logo=raspberrypi&logoColor=A22846"/>
-  <img src="https://img.shields.io/badge/ArduPilot-0d1117?style=flat&logoColor=00e5ff"/>
+  <img src="https://img.shields.io/badge/ArduPilot-0d1117?style=flat&logoColor=ff6d00"/>
 </p>
 
 > [!NOTE]
@@ -434,17 +434,17 @@ Core Focus:
 <summary><b>📈 Click to view GitHub Statistics</b></summary>
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omshukla001&show_icons=true&theme=transparent&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&icon_color=00e5ff&border_color=1a1e24&hide_border=false&count_private=true&ring_color=00e5ff" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=omshukla001&theme=transparent&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=4a5568&border=1a1e24" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omshukla001&show_icons=true&theme=transparent&bg_color=0d1117&title_color=ff6d00&text_color=c9d1d9&icon_color=ff6d00&border_color=1a1e24&hide_border=false&count_private=true&ring_color=ff6d00" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=omshukla001&theme=transparent&background=0d1117&ring=ff6d00&fire=ff6d00&currStreakLabel=ff6d00&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=4a5568&border=1a1e24" alt="GitHub Streak"/>
 
 <br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omshukla001&layout=compact&theme=transparent&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&border_color=1a1e24&hide_border=false&langs_count=8" alt="Top Languages"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omshukla001&layout=compact&theme=transparent&bg_color=0d1117&title_color=ff6d00&text_color=c9d1d9&border_color=1a1e24&hide_border=false&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
 <!-- Contribution Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=omshukla001&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area_color=00e5ff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=omshukla001&bg_color=0d1117&color=ff6d00&line=ff6d00&point=ffffff&area_color=ff6d00&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
 
 </details>
 
@@ -502,7 +502,7 @@ Core Focus:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=omshukla001&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=omshukla001&style=for-the-badge&color=ff6d00&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 <br/><br/>
 

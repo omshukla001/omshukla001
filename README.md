@@ -199,7 +199,8 @@ Core Focus:
 <details>
 <summary>
   <h3>🛸 <b>Domain 1: Robotics & Hardware</b></h3>
-  <sub><b>NIDAR Dual-Drone System</b> — Autonomous active flood rescue operations | <i>Python, OpenCV, Pixhawk, YOLOv8</i></sub>
+  <b>NIDAR Dual-Drone System</b> — Autonomous active flood rescue operations<br/>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8"/> <img src="https://img.shields.io/badge/Pixhawk-0d1117?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMGU1ZmYiIHN0cm9rZS13aWR0aD0iMiI+PHBhdGggZD0iTTEyIDJMMiAyMmgyMEwxMiAyeiIvPjwvc3ZnPg==&logoColor=00e5ff"/> <img src="https://img.shields.io/badge/YOLOv8-0d1117?style=flat-square&logo=yolo&logoColor=00FFFF"/>
 </summary>
 
 <br/>
@@ -252,7 +253,8 @@ Core Focus:
 <details>
 <summary>
   <h3>🧠 <b>Domain 2: RAG Pipelines & Applied AI</b></h3>
-  <sub><b>CounsellorWala</b> — Intelligent admission prediction & LLM guidance | <i>React, FastAPI, RAG, FAISS</i></sub>
+  <b>CounsellorWala</b> — Intelligent admission prediction & LLM guidance<br/>
+  <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688"/> <img src="https://img.shields.io/badge/RAG_Pipelines-0d1117?style=flat-square&logo=openai&logoColor=00A67E"/>
 </summary>
 
 <br/>
@@ -301,7 +303,8 @@ Core Focus:
 <details>
 <summary>
   <h3>⚡ <b>Domain 3: Chatbots & Workflow Automation</b></h3>
-  <sub><b>WhatsApp Lead Bot & AGY Switcher</b> — AI qualification & workflow continuity | <i>Node.js, Baileys, Cerebras LLM</i></sub>
+  <b>WhatsApp Lead Bot & AGY Switcher</b> — AI qualification & workflow continuity<br/>
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=node.js&logoColor=339933"/> <img src="https://img.shields.io/badge/WhatsApp_Baileys-0d1117?style=flat-square&logo=whatsapp&logoColor=25D366"/> <img src="https://img.shields.io/badge/Cerebras_LLM-0d1117?style=flat-square&logo=meta&logoColor=0467DF"/>
 </summary>
 
 <br/>
@@ -363,7 +366,8 @@ Core Focus:
 <details>
 <summary>
   <h3>👁️ <b>Domain 4: Computer Vision & Biometrics</b></h3>
-  <sub><b>Deepface Identifier</b> — Real-time biometric facial recognition engine | <i>Python, PyTorch, OpenCV, DeepFace</i></sub>
+  <b>Deepface Identifier</b> — Real-time biometric facial recognition engine<br/>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C"/> <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8"/> <img src="https://img.shields.io/badge/DeepFace-0d1117?style=flat-square&logo=meta&logoColor=00FFFF"/>
 </summary>
 
 <br/>

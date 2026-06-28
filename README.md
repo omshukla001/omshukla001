@@ -190,10 +190,8 @@ Core Focus:
 <!-- NIDAR -->
 <td width="50%" valign="top">
 
-### 🚁 NIDAR — Dual-Drone System
+### 🚁 [NIDAR — Dual-Drone System](https://github.com/omshukla001/NIDAR)
 Autonomous active flood rescue operations and victim detection.
-
-⭐ 12 &nbsp;&nbsp; 🍴 3
 
 <br/>
 
@@ -203,10 +201,8 @@ Autonomous active flood rescue operations and victim detection.
 <!-- CounsellorWala -->
 <td width="50%" valign="top">
 
-### 🎓 CounsellorWala
+### 🎓 [CounsellorWala](https://github.com/omshukla001/final-councelling)
 AI-driven admission prediction platform using RAG pipelines.
-
-⭐ 8 &nbsp;&nbsp; 🍴 2
 
 <br/>
 
@@ -218,10 +214,8 @@ AI-driven admission prediction platform using RAG pipelines.
 <!-- WhatsApp Lead Bot -->
 <td width="50%" valign="top">
 
-### 💬 WhatsApp Lead Bot
+### 💬 [WhatsApp Lead Bot](https://github.com/omshukla001/watsapp-lead-bot)
 Local mobile-hosted LLM qualification system for admissions.
-
-⭐ 5 &nbsp;&nbsp; 🍴 1
 
 <br/>
 
@@ -231,10 +225,8 @@ Local mobile-hosted LLM qualification system for admissions.
 <!-- Deepface Identifier -->
 <td width="50%" valign="top">
 
-### 👤 Deepface Identifier
+### 👤 [Deepface Identifier](https://github.com/omshukla001/deepface-identifier)
 Real-time biometric facial recognition and identity mapping engine.
-
-⭐ 6 &nbsp;&nbsp; 🍴 2
 
 <br/>
 
@@ -246,10 +238,8 @@ Real-time biometric facial recognition and identity mapping engine.
 <!-- AGY Switcher -->
 <td width="50%" valign="top">
 
-### 🔄 AGY Switcher
+### 🔄 [AGY Switcher](https://github.com/omshukla001/AGY-Switcher)
 Account-switching automation tool for uninterrupted AI CLI workflows.
-
-⭐ 4 &nbsp;&nbsp; 🍴 1
 
 <br/>
 
@@ -259,10 +249,8 @@ Account-switching automation tool for uninterrupted AI CLI workflows.
 <!-- More Projects -->
 <td width="50%" valign="top">
 
-### 🚧 More Projects Loading...
+### 🚧 [More Projects Loading...](https://github.com/omshukla001?tab=repositories)
 Actively developing next-generation intelligent systems.
-
-⭐ ∞ &nbsp;&nbsp; 🍴 ∞
 
 <br/>
 

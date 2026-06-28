@@ -26,7 +26,6 @@
 <!-- Quick identity badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Bangalore,_India-0d1117?style=flat&labelColor=0d1117" alt="Location"/>
-  <img src="https://img.shields.io/badge/🎓_BMSIT%26M_|_ISE-0d1117?style=flat&labelColor=0d1117" alt="College"/>
   <img src="https://img.shields.io/badge/🛸_Building_Autonomous_Systems-00e5ff?style=flat&labelColor=0d1117" alt="Focus"/>
 </p>
 
@@ -64,10 +63,11 @@
 Name:       Om Shukla
 Role:       Autonomous Systems & AI Engineer
 Location:   Bangalore, India 🇮🇳
-College:    BMS Institute of Technology & Management (ISE)
 
-Mission:    "Building intelligent systems spanning autonomous drones, 
-             RAG pipelines, facial recognition, and chatbot automation."
+Mission:    "Building next-generation intelligent systems that bridge 
+             the gap between AI and the physical world—spanning 
+             autonomous drones, RAG pipelines, facial biometrics, 
+             and workflow automation."
 
 Core Focus:
   - 🛸 Drone Systems (ArduPilot, Pixhawk, Autonomy)

@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════
      OM SHUKLA — GitHub Profile README
-     Applied AI & Autonomous Systems Engineer | AI Agents | Computer Vision | Drone Intelligence
+     AI & Software Systems Engineer | AI Agents | Computer Vision | Full-Stack
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/omshukla001">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&height=90&lines=Applied+AI+%26+Autonomous+Systems;Building+AI+for+Real-World+Impact;Computer+Vision+%26+Deep+Learning;AI+Agents,+RAG+%26+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&height=90&lines=AI+%26+Software+Systems+Engineer;Full-Stack+AI+%26+RAG+Architect;Computer+Vision+%26+Deep+Learning;Intelligent+Workflow+Automation" alt="Typing SVG" />
   </a>
 </p>
 <br/>
@@ -27,7 +27,7 @@
 <!-- Quick identity badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Bangalore,_India-0d1117?style=flat&labelColor=0d1117" alt="Location"/>
-  <img src="https://img.shields.io/badge/🛸_Building_Autonomous_Systems-00e5ff?style=flat&labelColor=0d1117" alt="Focus"/>
+  <img src="https://img.shields.io/badge/💻_Building_AI_Software_Systems-00e5ff?style=flat&labelColor=0d1117" alt="Focus"/>
 </p>
 <br/>
 
@@ -63,17 +63,17 @@
 
 ```yaml
 Name:       Om Shukla
-Role:       Applied AI & Autonomous Systems Engineer
+Role:       AI & Software Systems Engineer
 Location:   Bangalore, India 🇮🇳
 
-Mission:    "Building next-generation intelligent systems that bridge 
-             the gap between AI and the physical world—spanning 
-             autonomous drones, RAG pipelines, facial biometrics, 
-             and workflow automation."
+Mission:    "Building scalable, next-generation software systems that bridge 
+             the gap between AI and real-world utility—spanning 
+             full-stack RAG pipelines, intelligent agent workflows, 
+             and applied computer vision."
 
 Core Focus:
-  - 🛸 Drone Systems (ArduPilot, Pixhawk, Autonomy)
-  - 🧠 Advanced AI & NLP (RAG Pipelines, LLaMA/Cerebras)
+  - 🧠 Advanced AI (RAG Pipelines, LLaMA/Cerebras)
+  - 💻 Full-Stack Software (React, Node.js, FastAPI)
   - 👁️ Computer Vision (YOLOv8, DeepFace Biometrics)
   - ⚡ Automation (WhatsApp Lead Bots, Workflow tools)
 ```

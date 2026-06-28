@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/omshukla001">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=FF6D00&center=true&vCenter=true&width=700&height=90&lines=AI+%26+ML+Engineer;Full-Stack+Developer;App+Developer;Computer+Vision+%26+Deep+Learning;Intelligent+Workflow+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&height=90&lines=AI+%26+ML+Engineer;Full-Stack+Developer;App+Developer;Computer+Vision+%26+Deep+Learning;Intelligent+Workflow+Automation" alt="Typing SVG" />
   </a>
 </p>
 <br/>
@@ -27,7 +27,7 @@
 <!-- Quick identity badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Bangalore,_India-0d1117?style=flat&labelColor=0d1117" alt="Location"/>
-  <img src="https://img.shields.io/badge/💻_Building_AI_Software_Systems-ff6d00?style=flat&labelColor=0d1117" alt="Focus"/>
+  <img src="https://img.shields.io/badge/💻_Building_AI_Software_Systems-00e5ff?style=flat&labelColor=0d1117" alt="Focus"/>
 </p>
 <br/>
 
@@ -144,44 +144,29 @@ Core Focus:
      TECH STACK
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 🧬 &nbsp;Tech Arsenal
+```text
+> tech_stack
+```
 
 <div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
-  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
-  <img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
-  <img src="https://img.shields.io/badge/YOLOv8-0d1117?style=for-the-badge&logo=yolo&logoColor=00FFFF"/>
-  <img src="https://img.shields.io/badge/DeepFace-0d1117?style=for-the-badge&logo=meta&logoColor=00FFFF"/>
-  <img src="https://img.shields.io/badge/RAG_Pipelines-0d1117?style=for-the-badge&logo=openai&logoColor=00A67E"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Pixhawk-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMGU1ZmYiIHN0cm9rZS13aWR0aD0iMiI+PHBhdGggZD0iTTEyIDJMMiAyMmgyMEwxMiAyeiIvPjwvc3ZnPg==&logoColor=ff6d00"/>
-  <img src="https://img.shields.io/badge/ArduPilot-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMGU1ZmYiIHN0cm9rZS13aWR0aD0iMiI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMTIgMnYyME0yIDEyaDIwIi8+PC9zdmc+&logoColor=ff6d00"/>
-  <img src="https://img.shields.io/badge/Raspberry_Pi-0d1117?style=for-the-badge&logo=raspberrypi&logoColor=A22846"/>
-  <img src="https://img.shields.io/badge/WhatsApp_Baileys-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366"/>
-  <img src="https://img.shields.io/badge/Cerebras_LLM-0d1117?style=for-the-badge&logo=meta&logoColor=0467DF"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688"/>
-  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933"/>
-  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-  <img src="https://img.shields.io/badge/Pinecone-0d1117?style=for-the-badge&logo=pinecone&logoColor=ffffff"/>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-  <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
-  <img src="https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=46E3B7"/>
-  <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
-  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,html,css,react,nextjs,tailwind,nodejs,express,fastapi,tensorflow,pytorch,opencv,mongodb,mysql,postgres,firebase,git,github,docker,vscode,linux,postman,raspberrypi,arduino&perline=8&theme=dark" alt="Skillicons Grid" />
+</a>
+
+<br><br>
+
+### 🧠 Specialized AI & ML Arsenal
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Hugging_Face-00e5ff?style=for-the-badge&logo=huggingface&logoColor=0d1117&labelColor=0d1117" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/LangChain-00e5ff?style=for-the-badge&logo=chainlink&logoColor=00e5ff&labelColor=0d1117" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/OpenCV-00e5ff?style=for-the-badge&logo=opencv&logoColor=5C3EE8&labelColor=0d1117" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/Pandas-00e5ff?style=for-the-badge&logo=pandas&logoColor=150458&labelColor=0d1117" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-00e5ff?style=for-the-badge&logo=numpy&logoColor=013243&labelColor=0d1117" alt="NumPy"/>
+  <img src="https://img.shields.io/badge/Jupyter-00e5ff?style=for-the-badge&logo=jupyter&logoColor=F37626&labelColor=0d1117" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/FAISS-00e5ff?style=for-the-badge&logo=meta&logoColor=0467DF&labelColor=0d1117" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/YOLOv8-00e5ff?style=for-the-badge&logo=yolo&logoColor=00FFFF&labelColor=0d1117" alt="YOLOv8"/>
 </p>
 
 </div>
@@ -212,7 +197,7 @@ Autonomous active flood rescue operations and victim detection.
 
 <br/>
 
-<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8"/> <img src="https://img.shields.io/badge/YOLOv8-0d1117?style=flat-square&logo=yolo&logoColor=00FFFF"/> <img src="https://img.shields.io/badge/Pixhawk-0d1117?style=flat-square&logoColor=ff6d00"/>
+<img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=3776AB"/> <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8"/> <img src="https://img.shields.io/badge/YOLOv8-0d1117?style=flat-square&logo=yolo&logoColor=00FFFF"/> <img src="https://img.shields.io/badge/Pixhawk-0d1117?style=flat-square&logoColor=00e5ff"/>
 </td>
 
 <!-- CounsellorWala -->
@@ -282,7 +267,7 @@ Actively developing next-generation intelligent systems.
 <br/>
 
 <a href="https://github.com/omshukla001?tab=repositories">
-  <img src="https://img.shields.io/badge/View_All_Repositories-ff6d00?style=for-the-badge&logo=github&logoColor=111"/>
+  <img src="https://img.shields.io/badge/View_All_Repositories-00e5ff?style=for-the-badge&logo=github&logoColor=111"/>
 </a>
 </td>
 </tr>
@@ -307,17 +292,17 @@ Actively developing next-generation intelligent systems.
 <summary><b>📈 Click to view GitHub Statistics</b></summary>
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omshukla001&show_icons=true&theme=transparent&bg_color=0d1117&title_color=ff6d00&text_color=c9d1d9&icon_color=ff6d00&border_color=1a1e24&hide_border=false&count_private=true&ring_color=ff6d00" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=omshukla001&theme=transparent&background=0d1117&ring=ff6d00&fire=ff6d00&currStreakLabel=ff6d00&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=4a5568&border=1a1e24" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=omshukla001&show_icons=true&theme=transparent&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&icon_color=00e5ff&border_color=1a1e24&hide_border=false&count_private=true&ring_color=00e5ff" alt="GitHub Stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=omshukla001&theme=transparent&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=4a5568&border=1a1e24" alt="GitHub Streak"/>
 
 <br/>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omshukla001&layout=compact&theme=transparent&bg_color=0d1117&title_color=ff6d00&text_color=c9d1d9&border_color=1a1e24&hide_border=false&langs_count=8" alt="Top Languages"/>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omshukla001&layout=compact&theme=transparent&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&border_color=1a1e24&hide_border=false&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
 <!-- Contribution Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=omshukla001&bg_color=0d1117&color=ff6d00&line=ff6d00&point=ffffff&area_color=ff6d00&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=omshukla001&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area_color=00e5ff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
 
 </details>
 
@@ -375,7 +360,7 @@ Actively developing next-generation intelligent systems.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=omshukla001&style=for-the-badge&color=ff6d00&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=omshukla001&style=for-the-badge&color=00e5ff&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 <br/><br/>
 

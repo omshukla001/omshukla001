@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="8" viewBox="0 0 800 8">
   <defs>
     <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#ff6d00;stop-opacity:0"/>
-      <stop offset="30%" style="stop-color:#ff6d00;stop-opacity:0.6"/>
+      <stop offset="0%" style="stop-color:#00e5ff;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#00e5ff;stop-opacity:0.6"/>
       <stop offset="50%" style="stop-color:#00b8d4;stop-opacity:1"/>
-      <stop offset="70%" style="stop-color:#ff6d00;stop-opacity:0.6"/>
-      <stop offset="100%" style="stop-color:#ff6d00;stop-opacity:0"/>
+      <stop offset="70%" style="stop-color:#00e5ff;stop-opacity:0.6"/>
+      <stop offset="100%" style="stop-color:#00e5ff;stop-opacity:0"/>
     </linearGradient>
     <filter id="divGlow">
       <feGaussianBlur stdDeviation="1.5" result="blur"/>
@@ -16,7 +16,7 @@
     </filter>
   </defs>
   <line x1="0" y1="4" x2="800" y2="4" stroke="url(#divGrad)" stroke-width="1" filter="url(#divGlow)"/>
-  <circle r="3" fill="#ff6d00" filter="url(#divGlow)">
+  <circle r="3" fill="#00e5ff" filter="url(#divGlow)">
     <animate attributeName="cx" values="0;800;0" dur="6s" repeatCount="indefinite"/>
     <animate attributeName="cy" values="4;4;4" dur="6s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;1;1;0" dur="6s" repeatCount="indefinite"/>

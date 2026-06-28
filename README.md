@@ -190,7 +190,7 @@ Core Focus:
 <!-- NIDAR -->
 <td width="50%" valign="top">
 
-### 🚁 [NIDAR — Dual-Drone System](https://github.com/omshukla001/NIDAR)
+### 🚁 [NIDAR — Dual-Drone System](https://github.com/omshukla001/ai-survillance-drone-)
 Autonomous active flood rescue operations and victim detection.
 
 <br/>
@@ -238,7 +238,7 @@ Real-time biometric facial recognition and identity mapping engine.
 <!-- AGY Switcher -->
 <td width="50%" valign="top">
 
-### 🔄 [AGY Switcher](https://github.com/omshukla001/AGY-Switcher)
+### 🔄 [AGY Switcher](https://github.com/omshukla001/agy-account-switcher-)
 Account-switching automation tool for uninterrupted AI CLI workflows.
 
 <br/>

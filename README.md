@@ -18,7 +18,7 @@
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ TYPING ANIMATION ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <a href="https://github.com/omshukla001">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Autonomous+Systems+Engineer;Building+AI+for+Real-World+Impact;Drone+Intelligence+%26+Computer+Vision;AI+Agents+%26+Robotics+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Autonomous+Systems+Engineer;Building+AI+for+Real-World+Impact;Computer+Vision+%26+Deep+Learning;AI+Agents%2C+RAG+%26+Automation" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -57,25 +57,25 @@
 > om.whoami()
 ```
 
+<details open>
+<summary><b>👨‍💻 View Developer Profile (Click to Collapse)</b></summary>
+
 ```yaml
 Name:       Om Shukla
-Role:       Autonomous Systems Engineer
+Role:       Autonomous Systems & AI Engineer
 Location:   Bangalore, India 🇮🇳
 College:    BMS Institute of Technology & Management (ISE)
 
-Mission:    "Building intelligent autonomous systems that solve 
-             real-world problems in disaster management, robotics, 
-             and AI automation."
+Mission:    "Building intelligent systems spanning autonomous drones, 
+             RAG pipelines, facial recognition, and chatbot automation."
 
-Domains:    [Autonomous Drones, AI Agents, Computer Vision,
-             Geospatial Systems, Disaster Tech, Robotics]
-
-Currently:
-  - 🛸 Building dual-drone disaster response systems
-  - 🤖 Developing AI agents for real-world automation
-  - 👁️ Advancing human detection with computer vision
-  - 🌍 Designing geospatial intelligence pipelines
+Core Focus:
+  - 🛸 Drone Systems (ArduPilot, Pixhawk, Autonomy)
+  - 🧠 Advanced AI & NLP (RAG Pipelines, LLaMA/Cerebras)
+  - 👁️ Computer Vision (YOLOv8, DeepFace Biometrics)
+  - ⚡ Automation (WhatsApp Lead Bots, Workflow tools)
 ```
+</details>
 
 <div align="center">
 <img src="./assets/divider.svg" alt="divider" width="600"/>
@@ -85,115 +85,52 @@ Currently:
      CORE EXPERTISE
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> &nbsp;Core Expertise
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> &nbsp;Cross-Domain Expertise
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center" width="200">
+<td align="center" width="250">
 
-**🛸 Autonomous Drones**
+**🛸 Autonomous Drones & Robotics**
 <br/>
-<sub>Navigation · Path Planning · Autonomy · MAVLink · ArduPilot</sub>
+<details><summary><i>View Tech Stack</i></summary>
+<sub>Navigation · Path Planning · Autonomy · MAVLink · ArduPilot · Pixhawk · Raspberry Pi</sub>
+</details>
 
 </td>
-<td align="center" width="200">
+<td align="center" width="250">
 
-**🤖 AI Agents**
+**🧠 AI Agents & NLP (RAG)**
 <br/>
-<sub>LLM Pipelines · RAG · Decision Systems · LangChain · Automation</sub>
-
-</td>
-<td align="center" width="200">
-
-**👁️ Computer Vision**
-<br/>
-<sub>YOLO · OpenCV · Real-time Detection · Human Detection · Tracking</sub>
+<details><summary><i>View Tech Stack</i></summary>
+<sub>LLM Pipelines · RAG Integration · FAISS · LangChain · LLaMA/Cerebras · Semantic Search</sub>
+</details>
 
 </td>
 </tr>
 <tr>
-<td align="center" width="200">
+<td align="center" width="250">
 
-**🌍 Geospatial Systems**
+**👁️ Computer Vision & Biometrics**
 <br/>
-<sub>GPS · Mapping · Coordinate Extraction · Terrain Intelligence</sub>
+<details><summary><i>View Tech Stack</i></summary>
+<sub>YOLOv8 · OpenCV · DeepFace · Facial Recognition · Object Tracking · PyTorch</sub>
+</details>
 
 </td>
-<td align="center" width="200">
+<td align="center" width="250">
 
-**🚨 Disaster Tech**
+**⚡ Automation & Chatbots**
 <br/>
-<sub>Flood Rescue · Emergency Response · Autonomous Delivery · SAR</sub>
-
-</td>
-<td align="center" width="200">
-
-**⚙️ Full Stack AI**
-<br/>
-<sub>End-to-End ML Pipelines · FastAPI · React · Real-time Systems</sub>
+<details><summary><i>View Tech Stack</i></summary>
+<sub>WhatsApp Baileys · Termux APIs · Node.js Automation · Web Scraping · System Architecture</sub>
+</details>
 
 </td>
 </tr>
 </table>
-
-</div>
-
-<div align="center">
-<img src="./assets/divider.svg" alt="divider" width="600"/>
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     TECH STACK
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🧬 &nbsp;Tech Arsenal
-
-<div align="center">
-
-### `Languages`
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-
-### `AI / ML / CV`
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![YOLO](https://img.shields.io/badge/YOLOv8-0d1117?style=for-the-badge&logo=yolo&logoColor=00FFFF)
-![LangChain](https://img.shields.io/badge/LangChain-0d1117?style=for-the-badge&logo=chainlink&logoColor=375BD2)
-![FAISS](https://img.shields.io/badge/FAISS-0d1117?style=for-the-badge&logo=meta&logoColor=0467DF)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-0d1117?style=for-the-badge&logo=openai&logoColor=00A67E)
-
-### `Drone / Robotics`
-![Pixhawk](https://img.shields.io/badge/Pixhawk-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMGU1ZmYiIHN0cm9rZS13aWR0aD0iMiI+PHBhdGggZD0iTTEyIDJMMiAyMmgyMEwxMiAyeiIvPjwvc3ZnPg==&logoColor=00e5ff)
-![ArduPilot](https://img.shields.io/badge/ArduPilot-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMGU1ZmYiIHN0cm9rZS13aWR0aD0iMiI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMTIgMnYyME0yIDEyaDIwIi8+PC9zdmc+&logoColor=00e5ff)
-![MAVLink](https://img.shields.io/badge/MAVLink-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMGU1ZmYiIHN0cm9rZS13aWR0aD0iMiI+PHBhdGggZD0iTTEzIDJ2OGg4bC0xMyAxMnY4aC04bDEzLTEyIi8+PC9zdmc+&logoColor=00e5ff)
-![Mission Planner](https://img.shields.io/badge/Mission_Planner-0d1117?style=for-the-badge&logo=googlemaps&logoColor=00e5ff)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-0d1117?style=for-the-badge&logo=raspberrypi&logoColor=A22846)
-
-### `Backend & Infrastructure`
-![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
-
-### `Frontend`
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-
-### `Databases`
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=003B57)
-
-### `Tools`
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 
 </div>
 
@@ -205,159 +142,164 @@ Currently:
      FEATURED PROJECTS
      ═══════════════════════════════════════════════════════════════════════════ -->
 
-## 🚀 &nbsp;Featured Projects
+## 🚀 &nbsp;Featured Engineering Projects
 
 <div align="center">
 
-<!-- ─────────────── NIDAR ─────────────── -->
+<details open>
+<summary><h3>🛸 <b>Domain 1: Robotics & Hardware</b></h3></summary>
+
+<br/>
 
 <a href="https://github.com/omshukla001/NIDAR">
 <img src="https://img.shields.io/badge/🔴_FLAGSHIP-00e5ff?style=for-the-badge&labelColor=0d1117" alt="Flagship"/>
 </a>
 
-</div>
-
 <table>
 <tr>
-<td width="60" align="center">🛸</td>
+<td width="60" align="center">🚁</td>
 <td>
 
 ### NIDAR — Autonomous Dual-Drone Disaster Management System
 
-> *Real-world autonomous dual-drone system engineered for flood rescue operations*
+> *Real-world autonomous dual-drone system engineered for active flood rescue operations.*
 
-**The Problem:** During flood disasters, rescue teams cannot reach stranded victims fast enough. Traditional methods are slow, dangerous, and imprecise.
+**Architecture Flow:**
+- 🔍 **Scout Drone** — Detects stranded humans via YOLOv8, extracts GPS coordinates autonomously.
+- 📦 **Delivery Drone** — Receives telemetry, navigates to victims, drops emergency payloads via MAVLink.
 
-**The Solution:** A coordinated dual-drone system where:
-- 🔍 **Scout Drone** — Detects stranded humans using YOLOv8 computer vision, captures live feed, performs real-time victim detection, and extracts GPS coordinates
-- 📦 **Delivery Drone** — Receives coordinates autonomously, navigates to victims, and delivers emergency medical & food supplies
-- ⚡ **Impact** — Dramatically reduces rescue response time in active disaster zones
+<details><summary><b>⚙️ Tech Stack & Implementation details</b></summary>
 
 ```
-Tech: Python · OpenCV · YOLOv8 · Raspberry Pi · Pixhawk · ArduPilot · MAVLink · GPS · LoRa · Mission Planner
+Python · OpenCV · YOLOv8 · Raspberry Pi · Pixhawk · ArduPilot · MAVLink · GPS · LoRa
 ```
-
+- Engineered closed-loop communication between two autonomous agents.
+- Integrated hardware (Pixhawk) with AI edge-computing (Raspberry Pi + YOLO).
+</details>
 </td>
 </tr>
 </table>
 
----
+</details>
+
+<br/>
+
+<details open>
+<summary><h3>🧠 <b>Domain 2: RAG Pipelines & Applied AI</b></h3></summary>
+
+<br/>
 
 <table>
 <tr>
 <td width="60" align="center">🎓</td>
 <td>
 
-### CounsellorWala — AI-Powered College Counselling Platform
+### CounsellorWala — AI College Counselling Platform
 
-> *Intelligent admission prediction and guidance system using RAG pipelines*
+> *Intelligent admission prediction and guidance system powered by advanced RAG pipelines.*
 
-- 🧠 AI-powered admission probability prediction
-- 📊 Rank-based college guidance & recommendations
-- 💬 AI chatbot support with retrieval-augmented generation
-- 🎯 Personalized college shortlisting
+**Key Innovations:**
+- 🧠 **RAG AI Implementation:** Retrieves and augments final counselling cutoff data to ground LLM responses, eliminating hallucinations.
+- 📊 **Prediction Engine:** Rank-to-college matching using FAISS vector search.
+
+<details><summary><b>⚙️ Tech Stack & Implementation details</b></summary>
 
 ```
-Tech: React · TypeScript · FastAPI · PostgreSQL · FAISS · RAG
+React · TypeScript · FastAPI · PostgreSQL · FAISS · RAG Pipelines · LangChain
 ```
-
+- Built an end-to-end full stack system handling complex structured and unstructured counselling data.
+</details>
 </td>
 </tr>
 </table>
 
----
+</details>
+
+<br/>
+
+<details open>
+<summary><h3>⚡ <b>Domain 3: Chatbots & Workflow Automation</b></h3></summary>
+
+<br/>
 
 <table>
 <tr>
-<td width="60" align="center">📈</td>
+<td width="60" align="center">💬</td>
 <td>
 
-### JoSAA AI Predictor — Admission Intelligence Engine
+### WhatsApp Lead Bot — AI Qualification System
 
-> *ML-powered prediction engine using historical JoSAA counselling data*
+> *Local mobile-hosted LLM WhatsApp bot for real-time engineering admissions.*
 
-- 🔮 Rank-to-college probability prediction
-- 📉 Cutoff trend analysis and intelligence
-- 🏫 Data-driven college recommendations
+**Key Innovations:**
+- 📱 **Termux + Baileys:** Runs directly on Android using linked-device protocol—no Twilio or APIs needed.
+- 🗣️ **Cerebras LLM:** Handles English/Hindi/Hinglish detection and seamless lead qualification.
+
+<details><summary><b>⚙️ Tech Stack & Implementation details</b></summary>
 
 ```
-Tech: Python · Machine Learning · PostgreSQL
+Node.js · WhatsApp Baileys · Cerebras (LLaMA) · Termux:API · MongoDB Atlas · Express
 ```
-
+- Entirely self-hosted phone server architecture routing WhatsApp traffic to cloud LLMs.
+</details>
 </td>
 </tr>
 </table>
-
----
 
 <table>
 <tr>
-<td width="60" align="center">⚡</td>
+<td width="60" align="center">🔄</td>
 <td>
 
-### AGY Switcher — AI Workflow Automation Tool
+### AGY Switcher
 
-> *Automation system that ensures uninterrupted AI-assisted development workflows*
+> *Intelligent automation tool that ensures uninterrupted AI workflows.*
 
-- 🔄 Auto-detection of usage limits
-- 🔀 Intelligent account switching
-- ♾️ Seamless workflow continuity
-
-```
-Tech: TypeScript · Node.js · Automation Scripts
-```
-
+- Auto-detects usage limits and seamlessly shifts contexts across accounts.
 </td>
 </tr>
 </table>
+
+</details>
+
+<br/>
+
+<details open>
+<summary><h3>👁️ <b>Domain 4: Computer Vision & Biometrics</b></h3></summary>
+
+<br/>
+
+<table>
+<tr>
+<td width="60" align="center">👤</td>
+<td>
+
+### Deepface Identifier
+
+> *Facial recognition engine mapping biometric data to identity.*
+
+**Key Innovations:**
+- 🖼️ Analyzes faces in real-time or from static imagery.
+- 📐 Extracts deep feature embeddings for high-accuracy identity verification.
+
+<details><summary><b>⚙️ Tech Stack & Implementation details</b></summary>
+
+```
+Python · DeepFace · OpenCV · PyTorch · Biometric Verification
+```
+- Implementation of state-of-the-art face recognition architectures.
+</details>
+</td>
+</tr>
+</table>
+
+</details>
+</div>
 
 <div align="center">
 <img src="./assets/divider.svg" alt="divider" width="600"/>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════
-     SYSTEM ARCHITECTURE — NIDAR VISUAL
-     ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🧠 &nbsp;System Architecture — NIDAR
-
-<div align="center">
-
-```
-                    ╔══════════════════════════════════════════╗
-                    ║     NIDAR — AUTONOMOUS DISASTER          ║
-                    ║        RESPONSE SYSTEM                   ║
-                    ╚════════════════════╤═════════════════════╝
-                                         │
-                    ┌────────────────────┼────────────────────┐
-                    │                    │                    │
-              ┌─────▼─────┐       ┌─────▼─────┐       ┌─────▼─────┐
-              │  🔍 SCOUT  │       │  🧠 BRAIN  │       │  📦 CARGO │
-              │   DRONE    │       │  (AI CORE) │       │   DRONE   │
-              └─────┬─────┘       └─────┬─────┘       └─────┬─────┘
-                    │                    │                    │
-              ┌─────▼─────┐       ┌─────▼─────┐       ┌─────▼─────┐
-              │ Camera     │       │ YOLOv8    │       │ Pixhawk   │
-              │ Feed       │◄─────│ Detection │──────►│ Autopilot │
-              │ (Live)     │       │ Engine    │       │ (MAVLink) │
-              └─────┬─────┘       └─────┬─────┘       └─────┬─────┘
-                    │                    │                    │
-              ┌─────▼─────┐       ┌─────▼─────┐       ┌─────▼─────┐
-              │ GPS Coord  │       │ Victim    │       │ Autonomous│
-              │ Extraction │──────►│ Mapping   │──────►│ Navigation│
-              └────────────┘       └───────────┘       └─────┬─────┘
-                                                             │
-                                                       ┌─────▼─────┐
-                                                       │ 🏥 Supply │
-                                                       │ Delivery  │
-                                                       └───────────┘
-```
-
-</div>
-
-<div align="center">
-<img src="./assets/divider.svg" alt="divider" width="600"/>
-</div>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════
      GITHUB STATS
@@ -366,6 +308,10 @@ Tech: TypeScript · Node.js · Automation Scripts
 ## 📊 &nbsp;Mission Telemetry
 
 <div align="center">
+
+<details open>
+<summary><b>📈 Click to view GitHub Statistics</b></summary>
+<br/>
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=omshukla001&show_icons=true&theme=transparent&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&icon_color=00e5ff&border_color=1a1e24&hide_border=false&count_private=true&ring_color=00e5ff" alt="GitHub Stats"/>
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=omshukla001&theme=transparent&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=4a5568&border=1a1e24" alt="GitHub Streak"/>
@@ -379,6 +325,8 @@ Tech: TypeScript · Node.js · Automation Scripts
 <!-- Contribution Graph -->
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=omshukla001&bg_color=0d1117&color=00e5ff&line=00e5ff&point=ffffff&area_color=00e5ff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Graph"/>
 
+</details>
+
 </div>
 
 <div align="center">
@@ -390,9 +338,11 @@ Tech: TypeScript · Node.js · Automation Scripts
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
-
+<details>
+<summary><b>🏆 Click to view GitHub Trophies</b></summary>
+<br/>
 <img src="https://github-profile-trophy.vercel.app/?username=omshukla001&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=15&margin-h=15" alt="Trophies"/>
-
+</details>
 </div>
 
 <div align="center">
@@ -439,7 +389,7 @@ Tech: TypeScript · Node.js · Automation Scripts
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
 ║   "The future belongs to those who build the machines that think,            ║
-║    the drones that see, and the systems that act."                           ║
+║    the pipelines that retrieve, and the systems that act autonomously."      ║
 ║                                                                              ║
 ║                              — Building the future of autonomous intelligence ║
 ║                                                                              ║

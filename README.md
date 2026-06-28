@@ -1,6 +1,6 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════
      OM SHUKLA — GitHub Profile README
-     Autonomous Systems Engineer | AI Agents | Computer Vision | Drone Intelligence
+     Applied AI & Autonomous Systems Engineer | AI Agents | Computer Vision | Drone Intelligence
      ═══════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://github.com/omshukla001">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&height=90&lines=Autonomous+Systems+Engineer;Building+AI+for+Real-World+Impact;Computer+Vision+%26+Deep+Learning;AI+Agents,+RAG+%26+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&height=90&lines=Applied+AI+%26+Autonomous+Systems;Building+AI+for+Real-World+Impact;Computer+Vision+%26+Deep+Learning;AI+Agents,+RAG+%26+Automation" alt="Typing SVG" />
   </a>
 </p>
 <br/>
@@ -63,7 +63,7 @@
 
 ```yaml
 Name:       Om Shukla
-Role:       Autonomous Systems & AI Engineer
+Role:       Applied AI & Autonomous Systems Engineer
 Location:   Bangalore, India 🇮🇳
 
 Mission:    "Building next-generation intelligent systems that bridge 

@@ -195,7 +195,7 @@ Core Focus:
 
 <div align="center">
 
-<details open>
+<details>
 <summary><h3>🛸 <b>Domain 1: Robotics & Hardware</b></h3></summary>
 
 <br/>
@@ -238,7 +238,7 @@ Core Focus:
 
 <br/>
 
-<details open>
+<details>
 <summary><h3>🧠 <b>Domain 2: RAG Pipelines & Applied AI</b></h3></summary>
 
 <br/>
@@ -277,7 +277,7 @@ Core Focus:
 
 <br/>
 
-<details open>
+<details>
 <summary><h3>⚡ <b>Domain 3: Chatbots & Workflow Automation</b></h3></summary>
 
 <br/>
@@ -329,7 +329,7 @@ Core Focus:
 
 <br/>
 
-<details open>
+<details>
 <summary><h3>👁️ <b>Domain 4: Computer Vision & Biometrics</b></h3></summary>
 
 <br/>

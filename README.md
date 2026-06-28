@@ -174,10 +174,13 @@ Core Focus:
   <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
   <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+  <img src="https://img.shields.io/badge/Pinecone-0d1117?style=for-the-badge&logo=pinecone&logoColor=ffffff"/>
 </p>
 <p>
   <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
   <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Render-0d1117?style=for-the-badge&logo=render&logoColor=46E3B7"/>
+  <img src="https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
   <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
 </p>
 
@@ -254,7 +257,7 @@ Core Focus:
 <summary>
   <h3>🧠 <b>Domain 2: RAG Pipelines & Applied AI</b></h3>
   <b>CounsellorWala</b> — Intelligent admission prediction & LLM guidance<br/>
-  <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688"/> <img src="https://img.shields.io/badge/RAG_Pipelines-0d1117?style=flat-square&logo=openai&logoColor=00A67E"/>
+  <img src="https://img.shields.io/badge/React-0d1117?style=flat-square&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688"/> <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248"/> <img src="https://img.shields.io/badge/Pinecone-0d1117?style=flat-square&logo=pinecone&logoColor=ffffff"/> <img src="https://img.shields.io/badge/RAG_Pipelines-0d1117?style=flat-square&logo=openai&logoColor=00A67E"/>
 </summary>
 
 <br/>
@@ -283,6 +286,10 @@ Core Focus:
   <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat&logo=typescript&logoColor=3178C6"/>
   <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat&logo=fastapi&logoColor=009688"/>
   <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat&logo=postgresql&logoColor=4169E1"/>
+  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat&logo=mongodb&logoColor=47A248"/>
+  <img src="https://img.shields.io/badge/Pinecone-0d1117?style=flat&logo=pinecone&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Firebase-0d1117?style=flat&logo=firebase&logoColor=FFCA28"/>
+  <img src="https://img.shields.io/badge/Render-0d1117?style=flat&logo=render&logoColor=46E3B7"/>
   <img src="https://img.shields.io/badge/RAG_Pipelines-0d1117?style=flat&logo=openai&logoColor=00A67E"/>
 </p>
 

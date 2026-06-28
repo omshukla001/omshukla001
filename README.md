@@ -195,6 +195,7 @@ Core Focus:
 
 <div align="center">
 
+<!-- DOMAIN 1 -->
 <details>
 <summary>
   <h3>🛸 <b>Domain 1: Robotics & Hardware</b></h3>
@@ -203,22 +204,26 @@ Core Focus:
 
 <br/>
 
+<div align="left">
+
 <a href="https://github.com/omshukla001/NIDAR">
-<img src="https://img.shields.io/badge/🔴_FLAGSHIP-00e5ff?style=for-the-badge&labelColor=0d1117" alt="Flagship"/>
+  <img src="https://img.shields.io/badge/🔴_FLAGSHIP-00e5ff?style=for-the-badge&labelColor=0d1117" alt="Flagship"/>
 </a>
 
 <table>
 <tr>
-<td width="70" align="center"><img src="https://media.giphy.com/media/VbKLOdvYXWEo2XNAkP/giphy.gif" width="50" /><br/>🚁</td>
+<td width="80" align="center"><img src="https://media.giphy.com/media/VbKLOdvYXWEo2XNAkP/giphy.gif" width="60" /><br/>🚁</td>
 <td>
 
 ### NIDAR — Autonomous Dual-Drone Disaster Management System
 
-> *Real-world autonomous dual-drone system engineered for active flood rescue operations.*
+> [!IMPORTANT]
+> **The Mission:** Real-world autonomous dual-drone system engineered for active flood rescue operations to minimize response times.
 
-**Architecture Flow:**
-- 🔍 **Scout Drone** — Detects stranded humans via YOLOv8, extracts GPS coordinates autonomously.
-- 📦 **Delivery Drone** — Receives telemetry, navigates to victims, drops emergency payloads via MAVLink.
+> [!TIP]
+> **Architecture Flow:**
+> - 🔍 **Scout Drone:** Detects stranded humans via YOLOv8 edge-computing, extracting GPS coordinates autonomously.
+> - 📦 **Delivery Drone:** Receives telemetry in real-time, navigates to victims, and drops emergency payloads via MAVLink.
 
 <details><summary><b>⚙️ View Tech Stack & Implementation</b></summary>
 <br/>
@@ -229,18 +234,21 @@ Core Focus:
   <img src="https://img.shields.io/badge/Raspberry_Pi-0d1117?style=flat&logo=raspberrypi&logoColor=A22846"/>
   <img src="https://img.shields.io/badge/ArduPilot-0d1117?style=flat&logoColor=00e5ff"/>
 </p>
-<blockquote>
-  Engineered closed-loop communication between two autonomous agents. Integrated hardware (Pixhawk) with AI edge-computing (Raspberry Pi + YOLO).
-</blockquote>
+
+> [!NOTE]
+> Engineered closed-loop communication between two autonomous agents. Integrated hardware (Pixhawk) with AI edge-computing (Raspberry Pi + YOLO).
+
 </details>
 </td>
 </tr>
 </table>
+</div>
 
 </details>
 
 <br/>
 
+<!-- DOMAIN 2 -->
 <details>
 <summary>
   <h3>🧠 <b>Domain 2: RAG Pipelines & Applied AI</b></h3>
@@ -249,18 +257,22 @@ Core Focus:
 
 <br/>
 
+<div align="left">
+
 <table>
 <tr>
-<td width="70" align="center"><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="45" /><br/>🎓</td>
+<td width="80" align="center"><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="55" /><br/>🎓</td>
 <td>
 
 ### CounsellorWala — AI College Counselling Platform
 
-> *Intelligent admission prediction and guidance system powered by advanced RAG pipelines.*
+> [!IMPORTANT]
+> **The Mission:** Intelligent admission prediction and guidance system powered by advanced RAG pipelines.
 
-**Key Innovations:**
-- 🧠 **RAG AI Implementation:** Retrieves and augments final counselling cutoff data to ground LLM responses, eliminating hallucinations.
-- 📊 **Prediction Engine:** Rank-to-college matching using FAISS vector search.
+> [!TIP]
+> **Key Innovations:**
+> - 🧠 **RAG AI Implementation:** Retrieves and augments final counselling cutoff data to ground LLM responses, eliminating hallucinations.
+> - 📊 **Prediction Engine:** Rank-to-college matching using FAISS vector search algorithms.
 
 <details><summary><b>⚙️ View Tech Stack & Implementation</b></summary>
 <br/>
@@ -271,18 +283,21 @@ Core Focus:
   <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat&logo=postgresql&logoColor=4169E1"/>
   <img src="https://img.shields.io/badge/RAG_Pipelines-0d1117?style=flat&logo=openai&logoColor=00A67E"/>
 </p>
-<blockquote>
-  Built an end-to-end full stack system handling complex structured and unstructured counselling data to deliver real-time, highly accurate college insights.
-</blockquote>
+
+> [!NOTE]
+> Built an end-to-end full stack system handling complex structured and unstructured counselling data to deliver real-time, highly accurate college insights.
+
 </details>
 </td>
 </tr>
 </table>
+</div>
 
 </details>
 
 <br/>
 
+<!-- DOMAIN 3 -->
 <details>
 <summary>
   <h3>⚡ <b>Domain 3: Chatbots & Workflow Automation</b></h3>
@@ -291,18 +306,22 @@ Core Focus:
 
 <br/>
 
+<div align="left">
+
 <table>
 <tr>
-<td width="70" align="center"><img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="40" /><br/>💬</td>
+<td width="80" align="center"><img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="45" /><br/>💬</td>
 <td>
 
 ### WhatsApp Lead Bot — AI Qualification System
 
-> *Local mobile-hosted LLM WhatsApp bot for real-time engineering admissions.*
+> [!IMPORTANT]
+> **The Mission:** Local mobile-hosted LLM WhatsApp bot for real-time engineering admissions and lead qualification.
 
-**Key Innovations:**
-- 📱 **Termux + Baileys:** Runs directly on Android using linked-device protocol—no Twilio or APIs needed.
-- 🗣️ **Cerebras LLM:** Handles English/Hindi/Hinglish detection and seamless lead qualification.
+> [!TIP]
+> **Key Innovations:**
+> - 📱 **Termux + Baileys:** Runs directly on Android using linked-device protocol—no Twilio or paid APIs needed.
+> - 🗣️ **Cerebras LLM:** Handles English, Hindi, and Hinglish detection with seamless semantic conversation.
 
 <details><summary><b>⚙️ View Tech Stack & Implementation</b></summary>
 <br/>
@@ -312,9 +331,10 @@ Core Focus:
   <img src="https://img.shields.io/badge/Cerebras_(LLaMA)-0d1117?style=flat&logo=meta&logoColor=0467DF"/>
   <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat&logo=mongodb&logoColor=47A248"/>
 </p>
-<blockquote>
-  Entirely self-hosted phone server architecture routing WhatsApp traffic directly to ultra-fast cloud LLMs.
-</blockquote>
+
+> [!NOTE]
+> Entirely self-hosted phone server architecture routing WhatsApp traffic directly to ultra-fast cloud LLMs.
+
 </details>
 </td>
 </tr>
@@ -322,22 +342,24 @@ Core Focus:
 
 <table>
 <tr>
-<td width="70" align="center">🔄</td>
+<td width="80" align="center">🔄</td>
 <td>
 
 ### AGY Switcher
 
-> *Intelligent automation tool that ensures uninterrupted AI workflows.*
+> [!TIP]
+> **The Mission:** Intelligent automation tool that auto-detects usage limits and seamlessly shifts contexts across accounts, ensuring uninterrupted AI workflows.
 
-- Auto-detects usage limits and seamlessly shifts contexts across accounts.
 </td>
 </tr>
 </table>
+</div>
 
 </details>
 
 <br/>
 
+<!-- DOMAIN 4 -->
 <details>
 <summary>
   <h3>👁️ <b>Domain 4: Computer Vision & Biometrics</b></h3>
@@ -346,18 +368,22 @@ Core Focus:
 
 <br/>
 
+<div align="left">
+
 <table>
 <tr>
-<td width="70" align="center"><img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="45" /><br/>👤</td>
+<td width="80" align="center"><img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="55" /><br/>👤</td>
 <td>
 
 ### Deepface Identifier
 
-> *Facial recognition engine mapping biometric data to identity.*
+> [!IMPORTANT]
+> **The Mission:** Advanced facial recognition engine mapping biometric data to identity.
 
-**Key Innovations:**
-- 🖼️ Analyzes faces in real-time or from static imagery.
-- 📐 Extracts deep feature embeddings for high-accuracy identity verification.
+> [!TIP]
+> **Key Innovations:**
+> - 🖼️ **Real-Time Analysis:** Analyzes faces dynamically in real-time or from static imagery.
+> - 📐 **Feature Extraction:** Extracts deep feature embeddings for high-accuracy biometric identity verification.
 
 <details><summary><b>⚙️ View Tech Stack & Implementation</b></summary>
 <br/>
@@ -367,13 +393,15 @@ Core Focus:
   <img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat&logo=pytorch&logoColor=EE4C2C"/>
   <img src="https://img.shields.io/badge/DeepFace-0d1117?style=flat&logo=meta&logoColor=00FFFF"/>
 </p>
-<blockquote>
-  Implementation of state-of-the-art face recognition architectures mapping thousands of facial nodes.
-</blockquote>
+
+> [!NOTE]
+> Implementation of state-of-the-art face recognition architectures mapping thousands of facial nodes.
+
 </details>
 </td>
 </tr>
 </table>
+</div>
 
 </details>
 </div>

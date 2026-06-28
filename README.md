@@ -19,15 +19,17 @@
 
 <p align="center">
   <a href="https://github.com/omshukla001">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&height=50&lines=Autonomous+Systems+Engineer;Building+AI+for+Real-World+Impact;Computer+Vision+%26+Deep+Learning;AI+Agents,+RAG+%26+Automation" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&height=90&lines=Autonomous+Systems+Engineer;Building+AI+for+Real-World+Impact;Computer+Vision+%26+Deep+Learning;AI+Agents,+RAG+%26+Automation" alt="Typing SVG" />
   </a>
 </p>
+<br/>
 
 <!-- Quick identity badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/📍_Bangalore,_India-0d1117?style=flat&labelColor=0d1117" alt="Location"/>
   <img src="https://img.shields.io/badge/🛸_Building_Autonomous_Systems-00e5ff?style=flat&labelColor=0d1117" alt="Focus"/>
 </p>
+<br/>
 
 <img src="./assets/divider.svg" alt="divider" width="600"/>
 
@@ -131,6 +133,53 @@ Core Focus:
 </td>
 </tr>
 </table>
+
+</div>
+
+<div align="center">
+<img src="./assets/divider.svg" alt="divider" width="600"/>
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════
+     TECH STACK
+     ═══════════════════════════════════════════════════════════════════════════ -->
+
+## 🧬 &nbsp;Tech Arsenal
+
+<div align="center">
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00599C"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+  <img src="https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8"/>
+  <img src="https://img.shields.io/badge/YOLOv8-0d1117?style=for-the-badge&logo=yolo&logoColor=00FFFF"/>
+  <img src="https://img.shields.io/badge/DeepFace-0d1117?style=for-the-badge&logo=meta&logoColor=00FFFF"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-0d1117?style=for-the-badge&logo=openai&logoColor=00A67E"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Pixhawk-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMGU1ZmYiIHN0cm9rZS13aWR0aD0iMiI+PHBhdGggZD0iTTEyIDJMMiAyMmgyMEwxMiAyeiIvPjwvc3ZnPg==&logoColor=00e5ff"/>
+  <img src="https://img.shields.io/badge/ArduPilot-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMGU1ZmYiIHN0cm9rZS13aWR0aD0iMiI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48cGF0aCBkPSJNMTIgMnYyME0yIDEyaDIwIi8+PC9zdmc+&logoColor=00e5ff"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-0d1117?style=for-the-badge&logo=raspberrypi&logoColor=A22846"/>
+  <img src="https://img.shields.io/badge/WhatsApp_Baileys-0d1117?style=for-the-badge&logo=whatsapp&logoColor=25D366"/>
+  <img src="https://img.shields.io/badge/Cerebras_LLM-0d1117?style=for-the-badge&logo=meta&logoColor=0467DF"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688"/>
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+  <img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
+  <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
+</p>
 
 </div>
 

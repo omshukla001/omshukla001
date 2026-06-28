@@ -196,7 +196,10 @@ Core Focus:
 <div align="center">
 
 <details>
-<summary><h3>🛸 <b>Domain 1: Robotics & Hardware</b></h3></summary>
+<summary>
+  <h3>🛸 <b>Domain 1: Robotics & Hardware</b></h3>
+  <sub><b>NIDAR Dual-Drone System</b> — Autonomous active flood rescue operations | <i>Python, OpenCV, Pixhawk, YOLOv8</i></sub>
+</summary>
 
 <br/>
 
@@ -239,7 +242,10 @@ Core Focus:
 <br/>
 
 <details>
-<summary><h3>🧠 <b>Domain 2: RAG Pipelines & Applied AI</b></h3></summary>
+<summary>
+  <h3>🧠 <b>Domain 2: RAG Pipelines & Applied AI</b></h3>
+  <sub><b>CounsellorWala</b> — Intelligent admission prediction & LLM guidance | <i>React, FastAPI, RAG, FAISS</i></sub>
+</summary>
 
 <br/>
 
@@ -278,7 +284,10 @@ Core Focus:
 <br/>
 
 <details>
-<summary><h3>⚡ <b>Domain 3: Chatbots & Workflow Automation</b></h3></summary>
+<summary>
+  <h3>⚡ <b>Domain 3: Chatbots & Workflow Automation</b></h3>
+  <sub><b>WhatsApp Lead Bot & AGY Switcher</b> — AI qualification & workflow continuity | <i>Node.js, Baileys, Cerebras LLM</i></sub>
+</summary>
 
 <br/>
 
@@ -330,7 +339,10 @@ Core Focus:
 <br/>
 
 <details>
-<summary><h3>👁️ <b>Domain 4: Computer Vision & Biometrics</b></h3></summary>
+<summary>
+  <h3>👁️ <b>Domain 4: Computer Vision & Biometrics</b></h3>
+  <sub><b>Deepface Identifier</b> — Real-time biometric facial recognition engine | <i>Python, PyTorch, OpenCV, DeepFace</i></sub>
+</summary>
 
 <br/>
 

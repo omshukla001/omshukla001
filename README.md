@@ -157,7 +157,7 @@ Core Focus:
 
 <table>
 <tr>
-<td width="60" align="center">🚁</td>
+<td width="70" align="center"><img src="https://media.giphy.com/media/VbKLOdvYXWEo2XNAkP/giphy.gif" width="50" /><br/>🚁</td>
 <td>
 
 ### NIDAR — Autonomous Dual-Drone Disaster Management System
@@ -168,13 +168,18 @@ Core Focus:
 - 🔍 **Scout Drone** — Detects stranded humans via YOLOv8, extracts GPS coordinates autonomously.
 - 📦 **Delivery Drone** — Receives telemetry, navigates to victims, drops emergency payloads via MAVLink.
 
-<details><summary><b>⚙️ Tech Stack & Implementation details</b></summary>
-
-```
-Python · OpenCV · YOLOv8 · Raspberry Pi · Pixhawk · ArduPilot · MAVLink · GPS · LoRa
-```
-- Engineered closed-loop communication between two autonomous agents.
-- Integrated hardware (Pixhawk) with AI edge-computing (Raspberry Pi + YOLO).
+<details><summary><b>⚙️ View Tech Stack & Implementation</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat&logo=opencv&logoColor=5C3EE8"/>
+  <img src="https://img.shields.io/badge/YOLOv8-0d1117?style=flat&logo=yolo&logoColor=00FFFF"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-0d1117?style=flat&logo=raspberrypi&logoColor=A22846"/>
+  <img src="https://img.shields.io/badge/ArduPilot-0d1117?style=flat&logoColor=00e5ff"/>
+</p>
+<blockquote>
+  Engineered closed-loop communication between two autonomous agents. Integrated hardware (Pixhawk) with AI edge-computing (Raspberry Pi + YOLO).
+</blockquote>
 </details>
 </td>
 </tr>
@@ -191,7 +196,7 @@ Python · OpenCV · YOLOv8 · Raspberry Pi · Pixhawk · ArduPilot · MAVLink ·
 
 <table>
 <tr>
-<td width="60" align="center">🎓</td>
+<td width="70" align="center"><img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="45" /><br/>🎓</td>
 <td>
 
 ### CounsellorWala — AI College Counselling Platform
@@ -202,12 +207,18 @@ Python · OpenCV · YOLOv8 · Raspberry Pi · Pixhawk · ArduPilot · MAVLink ·
 - 🧠 **RAG AI Implementation:** Retrieves and augments final counselling cutoff data to ground LLM responses, eliminating hallucinations.
 - 📊 **Prediction Engine:** Rank-to-college matching using FAISS vector search.
 
-<details><summary><b>⚙️ Tech Stack & Implementation details</b></summary>
-
-```
-React · TypeScript · FastAPI · PostgreSQL · FAISS · RAG Pipelines · LangChain
-```
-- Built an end-to-end full stack system handling complex structured and unstructured counselling data.
+<details><summary><b>⚙️ View Tech Stack & Implementation</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/React-0d1117?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat&logo=typescript&logoColor=3178C6"/>
+  <img src="https://img.shields.io/badge/FastAPI-0d1117?style=flat&logo=fastapi&logoColor=009688"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat&logo=postgresql&logoColor=4169E1"/>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-0d1117?style=flat&logo=openai&logoColor=00A67E"/>
+</p>
+<blockquote>
+  Built an end-to-end full stack system handling complex structured and unstructured counselling data to deliver real-time, highly accurate college insights.
+</blockquote>
 </details>
 </td>
 </tr>
@@ -224,7 +235,7 @@ React · TypeScript · FastAPI · PostgreSQL · FAISS · RAG Pipelines · LangCh
 
 <table>
 <tr>
-<td width="60" align="center">💬</td>
+<td width="70" align="center"><img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="40" /><br/>💬</td>
 <td>
 
 ### WhatsApp Lead Bot — AI Qualification System
@@ -235,12 +246,17 @@ React · TypeScript · FastAPI · PostgreSQL · FAISS · RAG Pipelines · LangCh
 - 📱 **Termux + Baileys:** Runs directly on Android using linked-device protocol—no Twilio or APIs needed.
 - 🗣️ **Cerebras LLM:** Handles English/Hindi/Hinglish detection and seamless lead qualification.
 
-<details><summary><b>⚙️ Tech Stack & Implementation details</b></summary>
-
-```
-Node.js · WhatsApp Baileys · Cerebras (LLaMA) · Termux:API · MongoDB Atlas · Express
-```
-- Entirely self-hosted phone server architecture routing WhatsApp traffic to cloud LLMs.
+<details><summary><b>⚙️ View Tech Stack & Implementation</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat&logo=node.js&logoColor=339933"/>
+  <img src="https://img.shields.io/badge/WhatsApp_Baileys-0d1117?style=flat&logo=whatsapp&logoColor=25D366"/>
+  <img src="https://img.shields.io/badge/Cerebras_(LLaMA)-0d1117?style=flat&logo=meta&logoColor=0467DF"/>
+  <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat&logo=mongodb&logoColor=47A248"/>
+</p>
+<blockquote>
+  Entirely self-hosted phone server architecture routing WhatsApp traffic directly to ultra-fast cloud LLMs.
+</blockquote>
 </details>
 </td>
 </tr>
@@ -248,7 +264,7 @@ Node.js · WhatsApp Baileys · Cerebras (LLaMA) · Termux:API · MongoDB Atlas �
 
 <table>
 <tr>
-<td width="60" align="center">🔄</td>
+<td width="70" align="center">🔄</td>
 <td>
 
 ### AGY Switcher
@@ -271,7 +287,7 @@ Node.js · WhatsApp Baileys · Cerebras (LLaMA) · Termux:API · MongoDB Atlas �
 
 <table>
 <tr>
-<td width="60" align="center">👤</td>
+<td width="70" align="center"><img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="45" /><br/>👤</td>
 <td>
 
 ### Deepface Identifier
@@ -282,12 +298,17 @@ Node.js · WhatsApp Baileys · Cerebras (LLaMA) · Termux:API · MongoDB Atlas �
 - 🖼️ Analyzes faces in real-time or from static imagery.
 - 📐 Extracts deep feature embeddings for high-accuracy identity verification.
 
-<details><summary><b>⚙️ Tech Stack & Implementation details</b></summary>
-
-```
-Python · DeepFace · OpenCV · PyTorch · Biometric Verification
-```
-- Implementation of state-of-the-art face recognition architectures.
+<details><summary><b>⚙️ View Tech Stack & Implementation</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat&logo=python&logoColor=3776AB"/>
+  <img src="https://img.shields.io/badge/OpenCV-0d1117?style=flat&logo=opencv&logoColor=5C3EE8"/>
+  <img src="https://img.shields.io/badge/PyTorch-0d1117?style=flat&logo=pytorch&logoColor=EE4C2C"/>
+  <img src="https://img.shields.io/badge/DeepFace-0d1117?style=flat&logo=meta&logoColor=00FFFF"/>
+</p>
+<blockquote>
+  Implementation of state-of-the-art face recognition architectures mapping thousands of facial nodes.
+</blockquote>
 </details>
 </td>
 </tr>

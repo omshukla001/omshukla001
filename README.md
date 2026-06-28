@@ -17,18 +17,18 @@
 
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ TYPING ANIMATION ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
-<a href="https://github.com/omshukla001">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Autonomous+Systems+Engineer;Building+AI+for+Real-World+Impact;Computer+Vision+%26+Deep+Learning;AI+Agents%2C+RAG+%26+Automation" alt="Typing SVG" />
-</a>
-
-<br/>
+<p align="center">
+  <a href="https://github.com/omshukla001">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&height=50&lines=Autonomous+Systems+Engineer;Building+AI+for+Real-World+Impact;Computer+Vision+%26+Deep+Learning;AI+Agents,+RAG+%26+Automation" alt="Typing SVG" />
+  </a>
+</p>
 
 <!-- Quick identity badges -->
-<img src="https://img.shields.io/badge/📍_Bangalore,_India-0d1117?style=flat&labelColor=0d1117" alt="Location"/>
-<img src="https://img.shields.io/badge/🎓_BMSIT&M_|_ISE-0d1117?style=flat&labelColor=0d1117" alt="College"/>
-<img src="https://img.shields.io/badge/🛸_Building_Autonomous_Systems-00e5ff?style=flat&labelColor=0d1117" alt="Focus"/>
-
-<br/><br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/📍_Bangalore,_India-0d1117?style=flat&labelColor=0d1117" alt="Location"/>
+  <img src="https://img.shields.io/badge/🎓_BMSIT%26M_|_ISE-0d1117?style=flat&labelColor=0d1117" alt="College"/>
+  <img src="https://img.shields.io/badge/🛸_Building_Autonomous_Systems-00e5ff?style=flat&labelColor=0d1117" alt="Focus"/>
+</p>
 
 <img src="./assets/divider.svg" alt="divider" width="600"/>
 
